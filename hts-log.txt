@@ -1,0 +1,22 @@
+HTTrack3.49-1 launched on Sun, 04 Mar 2018 17:04:05 at http://html.medhati.com/trendy/star-2.html
+(winhttrack http://html.medhati.com/trendy/star-2.html -O "http://html.medhati.com/trendy/star-2.html/shawarma" -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:07:31	Warning: 	Retry after error -4 (No data (connection closed)) at link html.medhati.com/trendy/assets/img/work3.jpg (from html.medhati.com/trendy/star-2.html)
+17:07:31	Warning: 	Retry after error -4 (No data (connection closed)) at link html.medhati.com/trendy/assets/js/main.js (from html.medhati.com/trendy/star-2.html)
+17:07:31	Error: 	"Not Found" (404) at link html.medhati.com/trendy/assets/fonts/glyphicons-halflings-regular.eot (from html.medhati.com/trendy/assets/css/bootstrap.css)
+17:07:31	Error: 	"Not Found" (404) at link html.medhati.com/trendy/assets/fonts/glyphicons-halflings-regular.eot? (from html.medhati.com/trendy/assets/css/bootstrap.css)
+17:07:31	Error: 	"Not Found" (404) at link html.medhati.com/trendy/assets/fonts/glyphicons-halflings-regular.woff2 (from html.medhati.com/trendy/assets/css/bootstrap.css)
+17:07:31	Error: 	"Not Found" (404) at link html.medhati.com/trendy/assets/fonts/glyphicons-halflings-regular.woff (from html.medhati.com/trendy/assets/css/bootstrap.css)
+17:07:31	Error: 	"Not Found" (404) at link html.medhati.com/trendy/assets/fonts/glyphicons-halflings-regular.ttf (from html.medhati.com/trendy/assets/css/bootstrap.css)
+17:07:31	Error: 	"Not Found" (404) at link html.medhati.com/trendy/assets/fonts/glyphicons-halflings-regular.svg (from html.medhati.com/trendy/assets/css/bootstrap.css)
+17:07:31	Error: 	"Not Found" (404) at link html.medhati.com/trendy/assets/css/mCSB_buttons.png (from html.medhati.com/trendy/assets/css/scroll.css)
+17:07:31	Warning: 	Retry after error -4 (No data (connection closed)) at link html.medhati.com/trendy/assets/fonts/medhati.svg (from html.medhati.com/trendy/assets/css/style.css)
+17:07:31	Warning: 	Retry after error -4 (No data (connection closed)) at link html.medhati.com/trendy/assets/fonts/themify.ttf?-fvbane (from html.medhati.com/trendy/assets/css/ti.css)
+
+HTTrack Website Copier/3.49-1 mirror complete in 3 minutes 38 seconds : 63 links scanned, 51 files written (5718816 bytes overall) [4256017 bytes received at 19523 bytes/sec], 2253357 bytes transferred using HTTP compression in 18 files, ratio 33%, 1.9 requests per connection
+(7 errors, 4 warnings, 0 messages)
